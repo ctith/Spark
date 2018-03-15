@@ -5,7 +5,7 @@ https://fr.hortonworks.com/tutorial/word-count-sparkr-repl-examples/
 Deux spark sont installés donc spécifier le spark que l’on va utiliser (la version 2).
 
 Attention à l’utilisateur dans lequel on est loggué : spark utilise un utilisateur spark donc pour télécharger un fichier HDFS depuis Spark, il faut être dans Spark.
-```
+```shell
 ubuntu@ip-172-31-xx-xxx:~$ sudo su spark
 spark@ip-172-31-xx-xxx:/home/ubuntu$ export SPARK_MAJOR_VERSION=2
 spark@ip-172-31-xx-xxx:/home/ubuntu$ cd /usr/hdp/current/spark2-client/
@@ -14,7 +14,7 @@ spark@ip-172-31-xx-xxx:/usr/hdp/current/spark2-client$ ./bin/spark-shell
 
 ## SETUP DE LA VERSION DE SPARK  
 A TAPER UNIQUEMENT APRES ÊTRE LOGGUÉ SOUS LE USER SPARK
-```
+```scala
 export SPARK_MAJOR_VERSION=2
 ```
 
