@@ -1,4 +1,4 @@
-# TP Spark avec Scala :gem::gem::gem:
+# TP Spark SQL avec Scala :gem::gem::gem:
 
 ## Fichier Diamonds.csv, a data frame with 53940 rows and 10 variables 
 * price price in US dollars (\$326--\$18,823)
