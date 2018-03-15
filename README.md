@@ -1,11 +1,11 @@
 # TP Spark
 
-## TP Spark initiation
+## TP Spark Initiation
 
-## TP Spark Wordcount
+## TP Spark Wordcount avec HDFS
 
-## TP Spark SQL
+## TP Spark SQL avec scala
 
 [Voir TP](https://github.com/ctith/Spark/blob/master/TP_Spark_SQL.md)
 
-## TP Spark streaming 
+## TP Spark streaming avec API Twitter
