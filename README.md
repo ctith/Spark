@@ -8,8 +8,8 @@
 
 [Voir TP](https://github.com/ctith/Spark/blob/master/TP_Spark_Wordcount.md)
 
-## TP Spark SQL avec scala
+## TP Spark SQL avec Scala
 
 [Voir TP](https://github.com/ctith/Spark/blob/master/TP_Spark_SQL.md)
 
-## TP Spark streaming avec API Twitter
+## TP Spark Streaming avec API Twitter
